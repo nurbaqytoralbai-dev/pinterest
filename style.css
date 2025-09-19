@@ -197,3 +197,16 @@
   border-radius: 20px;
   overflow: hidden;
 }
+.profil {
+  border-radius: 100px;
+  background-color: darkolivegreen;
+  text-align: center;
+  padding: 1px;
+  height: 20px;
+  width: 30px;
+  margin-top: 20px;
+  padding-bottom: 20px;
+}
+.dap {
+  transform: rotate(180deg);
+}
